@@ -1,1 +1,1 @@
-# rich-list
+# Rich List
